@@ -1,1 +1,5 @@
-This is a github challenge
+# Digital Innovation One | Github Challenge 
+
+Hello everyone! This repo is part of a challenge for Carrefour's Web Developer Bootcamp, by Digital Innovation One.
+
+And it's done :D 
